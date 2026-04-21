@@ -59,12 +59,15 @@ Overall, the findings highlight the importance of considering both role type and
 
 --
 
-## Excel Dashboard
+## 📊 Excel Dashboard
 An Excel dashboard was created to visualize:
 - Average salary by department
 - Average salary by occupation
 - Salary trends by age
 - Top earners distribution
+
+View the full interactive Excel dashboard here:  https://1drv.ms/x/c/715BA35391912441/IQASAoWliACKRYUAA41n2D5ZARxih8HnYa9SiHeiQYkhUxg
+Note: The dashboard is best viewed in Excel via the link above, as GitHub preview may not display formatting correctly.
 
 ---
 
