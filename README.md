@@ -66,7 +66,9 @@ An Excel dashboard was created to visualize:
 - Salary trends by age
 - Top earners distribution
 
-View the full interactive Excel dashboard here:  https://1drv.ms/x/c/715BA35391912441/IQASAoWliACKRYUAA41n2D5ZARxih8HnYa9SiHeiQYkhUxg
+Data was cleaned and minor inconsistencies (e.g., missing department values) were adressed to improve clarity in analysis and visualizations. 
+
+View the full interactive Excel dashboard here:  https://1drv.ms/x/c/715BA35391912441/IQAPQlwC15KyQLvXDrWtdT7QAUdv2Jo1YsO6pHxyI9F9EXE
 Note: The dashboard is best viewed in Excel via the link above, as GitHub preview may not display formatting correctly.
 
 ---
